@@ -3,7 +3,7 @@ Project done during Software Engineering studies at Alx School. It aims to learn
 
 # Technologies
 C files are compiled using gcc 9.4.0
-C files are written according to the C90 standard
+C files are written according to the C11 standard
 Tested on Ubuntu 20.04 LTS
 The files follows betty coding style
 # Files
