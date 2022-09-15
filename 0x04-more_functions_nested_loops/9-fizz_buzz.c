@@ -8,8 +8,8 @@ int main(void)
 {
 	int i;
 
-	i=1;
-	printf("%d",i);
+	i = 1;
+	printf("%d", i);
 	for (i = 2; i <= 100; i++)
 	{
 		if ((i % 3 == 0) && (i % 5 == 0))
@@ -26,7 +26,7 @@ int main(void)
 		}
 		else
 		{
-			printf(" %d",i);
+			printf(" %d", i);
 		}
 	}
 	printf("\n");
